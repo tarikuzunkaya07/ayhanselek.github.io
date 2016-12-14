@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Ayhan Selek - Kişisel Web Sayfası
 email: ayhanselek@gmail.com
-description: Kişisel web sayfam.
+description: Kişisel web sayfam...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ayhanselek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ayhanselek
